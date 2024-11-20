@@ -1,13 +1,6 @@
 # E_Commerce Mern Stack
 Here's a sample **README.md** for your **MERN stack video streaming platform** project. It includes the MongoDB setup, Cloudinary API, PayPal API, and step-by-step instructions for installation:
 
----
-
-# **Video Streaming Platform**
-
-## **Overview**
-This project is a video streaming platform built using the MERN (MongoDB, Express, React, Node.js) stack, offering features like live streaming, Video on Demand (VOD), user authentication, content management, and secure payments via PayPal.
-
 ## **Technologies**
 - **MongoDB**: NoSQL database for storing user data, videos, and content metadata.
 - **Express.js**: Server-side framework for handling API requests.
